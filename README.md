@@ -8,8 +8,28 @@ Instead of cluttering your computer screen, this device mirrors your actions ins
 Two 14-year-olds from Ankara, Turkey made this. It sits right under your monitor.
 
 ## Gallery
-*Place your project photos or GIFs her<img width="1122" height="613" alt="WhatsApp Image 2026-06-14 at 14 57 02" src="https://github.com/user-attachments/assets/108f1965-df0a-46dc-80c2-bad23318c3a3" />
-e*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/108f1965-df0a-46dc-80c2-bad23318c3a3" width="700" />
+</p>
+
+<p align="center"><b>Perf board placement:</b></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e22524b3-4b7b-4882-aaa6-1dbc29643dd9" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/efc96c5a-7e23-4909-8809-da2a50fadd43" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bdbdacc2-4d0c-4970-a1f9-fb68c2db4d6c" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa8bd878-55d1-42cf-aa1d-78bac9b5a996" width="700" />
+</p>
+
 
 ## What it does
 * **Rotate the encoder** -> Adjust system volume. The 1.8" LCD instantly shows a visual volume slider updating in real-time.
