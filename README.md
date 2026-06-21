@@ -1,3 +1,4 @@
+
 # DESK-BUDDY
 
 A desktop tool for quickly accesing some of the most commonly used media features on computers, right on your desk.
@@ -11,7 +12,9 @@ Two 14-year-olds from Ankara, Turkey made this. It sits right under your monitor
 <p align="center">
   <img src="https://github.com/user-attachments/assets/108f1965-df0a-46dc-80c2-bad23318c3a3" width="700" />
 </p>
-
+<p align="center">
+<img width="3000" height="2198" alt="circuit_image (1)" src="https://github.com/user-attachments/assets/6217358c-e751-4df9-a215-24410a01eabc" />
+</p>
 <p align="center"><b>Perf board placement:</b></p>
 
 <p align="center">
