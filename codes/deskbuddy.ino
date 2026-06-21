@@ -4,14 +4,16 @@
 #include <Fonts/FreeSansBold18pt7b.h>
 #include <Fonts/FreeSans9pt7b.h>
 
-// ─── Pin Definitions ───────────────────────────────────────────────────────
+// ─── Screen Pin Definitions ───────────────────────────────────────────────────────
 #define TFT_CS     5
 #define TFT_DC     2
 #define TFT_RST    4
 #define TFT_MOSI   19
 #define TFT_SCLK   18
 
-const int TOUCH_PIN = 26;
+const int TOUCH_PIN1 = 26;
+const int TOUCH_PIN2 = 23;
+const int TOUCH_PIN  = TOUCH_PIN1;
 const int CLK_PIN   = 25;
 const int DT_PIN    = 32;
 const int SW_PIN    = 27;
@@ -39,15 +41,17 @@ int lastClkState;
 bool          lastButtonState  = HIGH;
 unsigned long firstClickTime   = 0;
 bool          waitingForDouble = false;
-const unsigned long DOUBLE_CLICK_MS = 300;
+const unsigned long DOUBLE_CLICK_MS = 500;
 
 // Touch
-bool lastTouchState = false;
+bool lastTouchState  = false;
+bool lastTouch2State = false;
 
 // ─── Forward Declarations ──────────────────────────────────────────────────
 void drawScreen();
 void pushCanvas();
 void playM1Animation();
+void playMuteAnimation();
 void sendVolume();
 void sendMicState();
 void handleSerialInput();
@@ -185,6 +189,37 @@ void playM1Animation() {
   updateDisplay();
 }
 
+void playMuteAnimation() {
+  for (int i = 0; i < 3; i++) {
+    canvas.fillScreen(ST7735_BLACK);
+    pushCanvas();
+    delay(25);
+  }
+
+  canvas.setFont(&FreeSansBold18pt7b);
+  for (int r = 0; r <= 31; r += 3) {
+    canvas.fillScreen(ST7735_BLACK);
+    canvas.setTextColor(((uint16_t)r) << 11);
+    canvas.setCursor(50, 75);
+    canvas.print("MUTED");
+    pushCanvas();
+    delay(12);
+  }
+
+  delay(500);
+
+  for (int r = 31; r >= 0; r -= 3) {
+    canvas.fillScreen(ST7735_BLACK);
+    canvas.setTextColor(((uint16_t)r) << 11);
+    canvas.setCursor(50, 75);
+    canvas.print("MUTED");
+    pushCanvas();
+    delay(12);
+  }
+
+  updateDisplay();
+}
+
 // ─── Serial Communication & Parsing ────────────────────────────────────────
 void sendVolume() {
   Serial.print("VOL:");
@@ -222,6 +257,16 @@ void handleSerialInput() {
         }
       }
     }
+    else if (input.startsWith("VOL:")) {
+      String volStr = input.substring(4);
+      int newVolume = volStr.toInt();
+      newVolume = constrain(newVolume, 0, 100);
+      if (newVolume != volume) {
+        volume = newVolume;
+        lastActivityTime = millis();
+        updateDisplay();
+      }
+    }
   }
 }
 
@@ -236,14 +281,15 @@ void IRAM_ATTR encoderISR() {
 
 // ─── Setup ─────────────────────────────────────────────────────────────────
 void setup() {
-  pinMode(TFT_DC,   INPUT);
-  pinMode(TFT_RST,  INPUT);
-  pinMode(TFT_CS,   INPUT);
+  pinMode(TFT_CS,   OUTPUT);
+  pinMode(TFT_DC,   OUTPUT);
+  pinMode(TFT_RST,  OUTPUT);
   delay(500);
 
   Serial.begin(115200);
 
   pinMode(TOUCH_PIN, INPUT);
+  pinMode(TOUCH_PIN2, INPUT);
   pinMode(CLK_PIN,   INPUT_PULLUP);
   pinMode(DT_PIN,    INPUT_PULLUP);
   pinMode(SW_PIN,    INPUT_PULLUP);
@@ -306,24 +352,29 @@ void loop() {
   // Handle Button
   bool btnNow = digitalRead(SW_PIN);
 
+
+    // Handle Touch
+  bool touch2Now = (digitalRead(TOUCH_PIN2) == HIGH);
+
+  if (touch2Now && !lastTouch2State) {
+    lastActivityTime = millis();
+    Serial.println("MUTE:RUN");
+    isMicMuted = !isMicMuted;
+    playMuteAnimation();
+    sendMicState();
+  }
+
+  lastTouch2State = touch2Now;
+
+  delay(5); 
+
+
   if (btnNow == LOW && lastButtonState == HIGH) {
     lastActivityTime = millis();
     unsigned long now = millis();
 
-    if (isMicMuted) {
-      isMicMuted = false;
-      sendMicState();
-      waitingForDouble = false;
-    } else {
-      if (waitingForDouble && (now - firstClickTime < DOUBLE_CLICK_MS)) {
-        isMicMuted = !isMicMuted;
-        sendMicState();
-        waitingForDouble = false;
-      } else {
-        firstClickTime   = now;
-        waitingForDouble = true;
-      }
-    }
+    volume = 0;
+    sendVolume();
 
     updateDisplay();
   }

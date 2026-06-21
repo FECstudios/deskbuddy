@@ -4,6 +4,7 @@ import logging
 import webbrowser
 from ctypes import cast, POINTER
 
+
 import serial
 import serial.tools.list_ports
 
@@ -77,6 +78,35 @@ def set_system_volume(ctrl: POINTER(IAudioEndpointVolume), percent: int) -> None
     except Exception as exc:
         log.error("set_system_volume failed: %s", exc)
 
+def get_system_volume(ctrl: POINTER(IAudioEndpointVolume)) -> int | None:
+    """Return the current Windows master volume as a percent."""
+    try:
+        scalar = ctrl.GetMasterVolumeLevelScalar()
+        percent = round(max(0.0, min(1.0, scalar)) * 100)
+        return percent
+    except Exception as exc:
+        log.error("Could not read system volume: %s", exc)
+        return None
+
+
+def send_current_volume(ser: serial.Serial, vol_ctrl: POINTER(IAudioEndpointVolume) | None) -> None:
+    """Send the current system volume to the ESP32."""
+    if vol_ctrl is None:
+        log.warning("Volume controller unavailable; cannot sync current volume.")
+        return
+
+    if ser is None or not ser.is_open:
+        return
+
+    percent = get_system_volume(vol_ctrl)
+    if percent is None:
+        return
+
+    try:
+        ser.write(f"VOL:{percent}\n".encode("utf-8"))
+        log.info("Current volume sent to ESP32: %d%%", percent)
+    except Exception as exc:
+        log.error("Failed to send current volume: %s", exc)
 
 # ─── Windows Audio — Microphone Mute ───────────────────────────────────────
 
@@ -190,6 +220,7 @@ def serial_loop(vol_ctrl, mic_ctrl) -> None:
                 log.info("Connected to %s @ %d baud.", port, BAUD_RATE)
                 
                 send_time_sync(ser)
+                send_current_volume(ser, vol_ctrl)
                 last_sync_time = time.time()
                 
             except serial.SerialException as exc:
