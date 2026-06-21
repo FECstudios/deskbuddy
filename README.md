@@ -18,9 +18,7 @@ Two 14-year-olds from Ankara, Turkey made this. It sits right under your monitor
   <img src="https://github.com/user-attachments/assets/e22524b3-4b7b-4882-aaa6-1dbc29643dd9" width="700" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/efc96c5a-7e23-4909-8809-da2a50fadd43" width="700" />
-</p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bdbdacc2-4d0c-4970-a1f9-fb68c2db4d6c" width="700" />
