@@ -14,7 +14,7 @@
 const int TOUCH_PIN = 26;
 const int CLK_PIN   = 25;
 const int DT_PIN    = 32;
-const int SW_PIN    = 33;
+const int SW_PIN    = 27;
 
 // ─── Display Setup ─────────────────────────────────────────────────────────
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
