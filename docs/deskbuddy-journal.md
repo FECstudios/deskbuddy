@@ -3,6 +3,11 @@
 - Exported at: 2026-06-21T15:25:05Z
 - Project ID: 4344
 - Entries: 12
+- Exported from fallout and recorded via lookout
+
+Message to the Horizons team:
+
+If you could count the hours filmed via lookout it would mean a lot we tried to transfer this project from Fallout to Horizons due to visa reasons (the project has not been submitted to Fallout)
 
 ## Entry 1
 - ID: 12566
@@ -189,3 +194,46 @@ Today i worked on deskbuddy writing the python and the esp side code and got it 
 
 - https://lookout.hackclub.com/api/media/61a2feca-e964-420d-92f1-f0d4123bb827/video.mp4
 - https://lookout.hackclub.com/api/media/8fe47c0b-c181-42f6-a2dc-169a25c2b767/video.mp4
+
+## Entry 13
+- ID: 14983
+- Author: craftfec
+- Created At: 2026-06-21 9:30pm
+
+### Content
+
+Today i tried to transfer the project from fallout to horizons, created both of the projects for me and my teammate and mailed the horizons team about this but still no response...
+
+
+### Recording Links
+- recorded on lapse and hackatime
+
+## Entry 14
+- ID: 14983
+- Author: craftfec
+- Created At: 2026-06-22 9:14pm
+
+### Content
+
+Today i started to finalize the shipping process, made schematics on both circitdesigner and kicad, created print profiles for the projects and uploaded them to makerworld https://makerworld.com/tr/models/2961161-deskbuddy-smart-media-controller#profileId-3319336
+
+<img width="1444" height="922" alt="image" src="https://github.com/user-attachments/assets/10b81d5b-5e10-4a94-ac94-7454cd916a2d" />
+
+
+### Recording Links
+- recorded on lapse and hackatime
+
+
+## Entry 15
+- ID: 14983
+- Author: derinozel5
+- Created At: 2026-06-22 9:18pm
+
+### Content
+
+Today i tried to paint the project on some metalic gray colors and now i am waiting for the paint to dry and also i worked on the code but sadly because i worked on the code on the school computers the footage is now lost 😭
+
+<img width="371" height="308" alt="image" src="https://github.com/user-attachments/assets/18b78b1c-7e4b-41cc-ab22-7cedf6b5bc38" />
+
+### Recording Links
+- recorded on lapse and hackatime
