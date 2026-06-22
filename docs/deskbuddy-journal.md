@@ -17,12 +17,15 @@ If you could count the hours filmed via lookout it would mean a lot we tried to 
 ### Content
 
 Today I worked on the Desk Buddy project by learning and using KiCad to create and improve the circuit design. I also designed a poster to showcase the project, focusing on explaining its purpose, functionality, and key features in a clear and visually appealing format.
+
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NjMsInB1ciI6ImJsb2JfaWQifX0=--4be6b58358f13da6db962c10b776782acc939dd3/image.png)
 
 
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/732c8ba0-a21a-4e1c-85cd-4a641441a240/video.mp4
+- 
+<img width="784" height="499" alt="image" src="https://github.com/user-attachments/assets/c4c7f472-7362-4e3d-b26a-3770755e1eab" />
 
 ## Entry 2
 - ID: 13017
@@ -39,6 +42,9 @@ Today I worked on the Desk Buddy project by learning and using KiCad to create a
 
 - https://lookout.hackclub.com/api/media/19390815-d58f-4c3a-a059-772953b4d734/video.mp4
 
+<img width="787" height="610" alt="image" src="https://github.com/user-attachments/assets/b1cbec9d-5ca7-491a-9976-b41cdc149eec" />
+
+
 ## Entry 3
 - ID: 13019
 - Author: craftfec
@@ -54,6 +60,8 @@ Today i worked on the knob design more than i should have and printed it but it 
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/c3755179-fb84-44b6-8a31-3a1aa7dcd7ff/video.mp4
+  
+<img width="788" height="480" alt="image" src="https://github.com/user-attachments/assets/7726d714-e488-4ca5-8c0f-22aa68ba7c0d" />
 
 ## Entry 4
 - ID: 13289
@@ -87,6 +95,8 @@ Spent some time working on DeskBuddy today. I soldered the rotary encoder and LC
 
 - https://lookout.hackclub.com/api/media/f283b0ac-b732-48af-818a-40508e89c2a5/video.mp4
 
+<img width="809" height="494" alt="image" src="https://github.com/user-attachments/assets/8b1bc9f1-36ca-4520-9bd4-44e9f376e392" />
+
 ## Entry 6
 - ID: 13424
 - Author: derinozel5
@@ -100,6 +110,9 @@ Continued working on the DeskBuddy electronics today, focusing on soldering and 
 ### Recording Links
 
 - https://www.youtube.com/watch?v=BgmVbupuWS4
+  
+<img width="788" height="494" alt="image" src="https://github.com/user-attachments/assets/9b8a608f-703a-4746-9898-3aae40297632" />
+
 
 ## Entry 7
 - ID: 13962
@@ -115,6 +128,8 @@ Spent some time working on DeskBuddy today. I soldered more of the components an
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/d2c67cb4-1a42-4405-bd3e-0cb8356158ea/video.mp4
+<img width="792" height="488" alt="image" src="https://github.com/user-attachments/assets/396e078e-e9a1-4732-9ca6-cd2aa59a82c4" />
+
 
 ## Entry 8
 - ID: 14080
@@ -131,6 +146,8 @@ Today i got most of the files ready for shipping. Created the GitHub repo and fi
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/ca90fd3a-f077-4b0d-8939-126cdd796fb7/video.mp4
+  
+<img width="794" height="496" alt="image" src="https://github.com/user-attachments/assets/a7d79c7e-73b7-4255-ac57-7602aac67033" />
 
 ## Entry 9
 - ID: 14316
@@ -146,6 +163,8 @@ Today, I worked on my DeskBuddy project. I completed the soldering work, tested 
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/cef48a1d-7b74-49a0-b643-4330191fc3d0/video.mp4
+
+<img width="791" height="486" alt="image" src="https://github.com/user-attachments/assets/65256e1d-7dfd-4d55-9626-2265213ce1e2" />
 
 ## Entry 10
 - ID: 14508
@@ -163,6 +182,8 @@ Today, I focused on the DeskBuddy project. I finalized the Bill of Materials (BO
 - https://lookout.hackclub.com/api/media/01b8f960-ebd3-4d82-9f8d-2516ebf4a3a7/video.mp4
 - https://lookout.hackclub.com/api/media/e4955757-c1b6-4c76-b939-bbf9b6c7b74f/video.mp4
 
+<img width="800" height="488" alt="image" src="https://github.com/user-attachments/assets/393959a9-904f-4a36-a08c-94cedbc8b134" />
+
 ## Entry 11
 - ID: 14593
 - Author: derinozel5
@@ -177,6 +198,7 @@ Today I spent some time improving DeskBuddy. I worked on the codebase, fixing is
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/e6145abb-b70c-4924-bf2d-8ee2b85bff13/video.mp4
+<img width="794" height="506" alt="image" src="https://github.com/user-attachments/assets/fb27fa44-1d80-4ab5-948e-ec4561e4f469" />
 
 ## Entry 12
 - ID: 14983
@@ -194,6 +216,8 @@ Today i worked on deskbuddy writing the python and the esp side code and got it 
 
 - https://lookout.hackclub.com/api/media/61a2feca-e964-420d-92f1-f0d4123bb827/video.mp4
 - https://lookout.hackclub.com/api/media/8fe47c0b-c181-42f6-a2dc-169a25c2b767/video.mp4
+
+<img width="799" height="480" alt="image" src="https://github.com/user-attachments/assets/736a714b-754f-4479-a0a0-c6d34a07d077" />
 
 ## Entry 13
 - ID: 14983
