@@ -24,7 +24,7 @@ Today I worked on the Desk Buddy project by learning and using KiCad to create a
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/732c8ba0-a21a-4e1c-85cd-4a641441a240/video.mp4
-- 
+  
 <img width="784" height="499" alt="image" src="https://github.com/user-attachments/assets/c4c7f472-7362-4e3d-b26a-3770755e1eab" />
 
 ## Entry 2
@@ -95,7 +95,8 @@ Spent some time working on DeskBuddy today. I soldered the rotary encoder and LC
 
 - https://lookout.hackclub.com/api/media/f283b0ac-b732-48af-818a-40508e89c2a5/video.mp4
 
-<img width="809" height="494" alt="image" src="https://github.com/user-attachments/assets/8b1bc9f1-36ca-4520-9bd4-44e9f376e392" />
+<img width="793" height="488" alt="image" src="https://github.com/user-attachments/assets/b289fbc0-a147-4b0d-89bc-7d36fe59f84b" />
+
 
 ## Entry 6
 - ID: 13424
