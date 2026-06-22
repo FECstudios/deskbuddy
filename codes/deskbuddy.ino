@@ -62,7 +62,7 @@ void IRAM_ATTR encoderISR();
 void drawScreen() {
   canvas.fillScreen(ST7735_BLACK);
 
-  // 1) IDLE (CLOCK) SCREEN
+  // 1) IDLE SCREEN
   if (millis() - lastActivityTime > IDLE_TIMEOUT) {
     canvas.setFont(&FreeSansBold18pt7b);
     canvas.setTextColor(ST7735_WHITE);
