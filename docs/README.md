@@ -6,30 +6,40 @@ We built this device because checking your media controls while you are working 
 
 Instead of cluttering your computer screen, this device mirrors your actions instantly. Rotate the encoder to set the  volume or mute sounds, 
 
-<img width="705" height="1000" alt="English Project" src="https://github.com/user-attachments/assets/1197e7d8-4c52-482f-8271-c04dd24c3865" />
+## Project Overview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1197e7d8-4c52-482f-8271-c04dd24c3865" width="700"/>
+</p>
 
 ## Gallery
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/108f1965-df0a-46dc-80c2-bad23318c3a3" width="700" />
-</p>
-<p align="center">
-<img width="3000" height="2198" alt="circuit_image (1)" src="https://github.com/user-attachments/assets/6217358c-e751-4df9-a215-24410a01eabc" />
-</p>
-<p align="center"><b>Perf board placement:</b></p>
+
+### Finished Device
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e22524b3-4b7b-4882-aaa6-1dbc29643dd9" width="700" />
+  <img src="https://github.com/user-attachments/assets/108f1965-df0a-46dc-80c2-bad23318c3a3" width="700"/>
 </p>
+
+### Internal Assembly
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/efc96c5a-7e23-4909-8809-da2a50fadd43" width="700" />
+  <img src="https://github.com/user-attachments/assets/e22524b3-4b7b-4882-aaa6-1dbc29643dd9" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/efc96c5a-7e23-4909-8809-da2a50fadd43" width="48%"/>
 </p>
 
-
+### Completed Build
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa8bd878-55d1-42cf-aa1d-78bac9b5a996" width="700" />
+  <img src="https://github.com/user-attachments/assets/aa8bd878-55d1-42cf-aa1d-78bac9b5a996" width="700"/>
 </p>
+
+### Wiring Diagram
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6217358c-e751-4df9-a215-24410a01eabc" width="900"/>
+</p>
+
+<p align="center"><i>Complete wiring schematic.</i></p>
 
 
 ## What does it do
