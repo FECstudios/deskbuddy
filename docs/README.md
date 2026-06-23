@@ -37,6 +37,11 @@ Instead of cluttering your computer screen, this device mirrors your actions ins
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6217358c-e751-4df9-a215-24410a01eabc" width="900"/>
 </p>
+<p align="center">
+  <img width="971" height="692" alt="image" src="https://github.com/user-attachments/assets/b2a6c143-76e5-4e79-996a-df19fae02667" />
+  (It is not the best or might have some errors on the kicad version im beginner on kicad)
+</p>
+
 
 <p align="center"><i>Complete wiring schematic.</i></p>
 
