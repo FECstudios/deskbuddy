@@ -1,4 +1,3 @@
-
 # DESK-BUDDY
 
 A desk tool to control audio settings and access some cool macros easily!
@@ -7,6 +6,7 @@ We built this device because checking your media controls while you are working 
 
 Instead of cluttering your computer screen, this device mirrors your actions instantly. Rotate the encoder to set the  volume or mute sounds, 
 
+<img width="1410" height="2000" alt="English Project" src="https://github.com/user-attachments/assets/1197e7d8-4c52-482f-8271-c04dd24c3865" />
 
 ## Gallery
 <p align="center">
