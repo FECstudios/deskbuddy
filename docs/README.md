@@ -27,7 +27,6 @@ Instead of cluttering your computer screen, this device mirrors your actions ins
   <img src="https://github.com/user-attachments/assets/efc96c5a-7e23-4909-8809-da2a50fadd43" width="48%"/>
 </p>
 
-### Completed Build
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa8bd878-55d1-42cf-aa1d-78bac9b5a996" width="700"/>
