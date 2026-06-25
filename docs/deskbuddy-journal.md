@@ -1,4 +1,4 @@
-# DeskBuddy — Journal Export
+# DeskBuddy
 
 - Exported at: 2026-06-21T15:25:05Z
 - Project ID: 4344
