@@ -289,3 +289,18 @@ Today i continued by getting the project shipping ready. Journaled for the proje
 - https://lapse.hackclub.com/timelapse/iAX3YhSjHB24
 - https://lapse.hackclub.com/timelapse/kg9KbqnS6cpq
 - https://lapse.hackclub.com/timelapse/9ATnQ195jXJ8
+
+## Entry 17
+- ID: 14983
+- Author: derinozel5
+- Created At: 2026-06-25 10:45am
+- Time Tracked: 37:01
+  
+### Content
+
+Finally the project and the github page is finished now all we need to do is send to review!
+
+<img width="737" height="701" alt="image" src="https://github.com/user-attachments/assets/41656e13-9928-41a9-bbb2-0e28826027db" />
+
+### Recording Links
+- https://lapse.hackclub.com/timelapse/_qu0E8XzCpRS
