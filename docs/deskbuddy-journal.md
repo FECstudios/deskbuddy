@@ -236,6 +236,7 @@ Today i worked on deskbuddy writing the python and the esp side code and got it 
 - ID: 14983
 - Author: craftfec
 - Created At: 2026-06-21 9:30pm
+- Time Tracked: 1:11:46
 
 ### Content
 
@@ -243,13 +244,17 @@ Today i tried to transfer the project from fallout to horizons, created both of 
 
 
 ### Recording Links
-- recorded on lapse and hackatime
+- https://lapse.hackclub.com/timelapse/802CU1dYqW50
+- https://lapse.hackclub.com/timelapse/G2JajRXwvE7z
+- https://lapse.hackclub.com/timelapse/nWsz_2K3OGzF
+  
 
 ## Entry 14
 - ID: 14983
 - Author: craftfec
 - Created At: 2026-06-22 9:14pm
-
+- Time Tracked: 2:30:41
+  
 ### Content
 
 Today i started to finalize the shipping process, made schematics on both circitdesigner and kicad, created print profiles for the projects and uploaded them to makerworld https://makerworld.com/tr/models/2961161-deskbuddy-smart-media-controller#profileId-3319336
@@ -258,19 +263,43 @@ Today i started to finalize the shipping process, made schematics on both circit
 
 
 ### Recording Links
-- recorded on lapse and hackatime
+- https://lapse.hackclub.com/timelapse/zzBnF3nzvdZW
+- https://lapse.hackclub.com/timelapse/s5m_3yv74e1e
+- https://lapse.hackclub.com/timelapse/giknjamv4afs
+- https://lapse.hackclub.com/timelapse/sHuYStKZbtmM
 
 
 ## Entry 15
 - ID: 14983
 - Author: derinozel5
 - Created At: 2026-06-22 9:18pm
-
+- Time Tracked: 58:12
+  
 ### Content
 
-Today i tried to paint the project on some metalic gray colors and now i am waiting for the paint to dry and also i worked on the code but sadly because i worked on the code on the school computers the footage is now lost 😭
+Today i tried to paint the project with some metalic gray colors and now i am waiting for the paint to dry and also i worked on the code but sadly the recordings got lost and also i wrote journals
 
 <img width="371" height="308" alt="image" src="https://github.com/user-attachments/assets/18b78b1c-7e4b-41cc-ab22-7cedf6b5bc38" />
 
 ### Recording Links
-- recorded on lapse and hackatime
+- https://lapse.hackclub.com/timelapse/VPNcZLikPkJ_
+- https://lapse.hackclub.com/timelapse/D4sbDbbKvaBL
+
+
+## Entry 16
+- ID: 14983
+- Author: derinozel5
+- Created At: 2026-06-25 10:25am
+- Time Tracked: 1:46:05
+  
+### Content
+
+Today i continued by getting the project shipping ready. Journaled for the project, made schematic designs on kicad and worked on the poster 
+
+<img width="745" height="1063" alt="image" src="https://github.com/user-attachments/assets/6b9659b0-d0fd-4541-a994-e52c168ed127" />
+
+### Recording Links
+- https://lapse.hackclub.com/timelapse/ujkxyN6umV80
+- https://lapse.hackclub.com/timelapse/iAX3YhSjHB24
+- https://lapse.hackclub.com/timelapse/kg9KbqnS6cpq
+- https://lapse.hackclub.com/timelapse/9ATnQ195jXJ8
