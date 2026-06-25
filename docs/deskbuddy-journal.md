@@ -19,7 +19,7 @@ If you could count the hours filmed via lookout it would mean a lot we tried to 
 
 Today I worked on the Desk Buddy project by learning and using KiCad to create and improve the circuit design. I also designed a poster to showcase the project, focusing on explaining its purpose, functionality, and key features in a clear and visually appealing format.
 
-![image.png]([/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NjMsInB1ciI6ImJsb2JfaWQifX0=--4be6b58358f13da6db962c10b776782acc939dd3/image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/ibkcvs36cj89dueyh2cyh0hsugvi?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073558Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=591addd62bd7eeb573126208c1044f96ff10835a98a8512c89a787199e75ce49))
+![image.png]([https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/ibkcvs36cj89dueyh2cyh0hsugvi?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073558Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=591addd62bd7eeb573126208c1044f96ff10835a98a8512c89a787199e75ce49]))
 
 
 ### Recording Links
