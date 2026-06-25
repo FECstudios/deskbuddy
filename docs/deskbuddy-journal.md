@@ -11,7 +11,7 @@ If you could count the hours filmed via lookout it would mean a lot we tried to 
 
 ## Entry 1
 - ID: 12566
-- Author: derinozel5
+- Author: D_R1N
 - Created At: 2026-06-08T18:42:00Z
 - 1h 4m tracked
 
@@ -27,7 +27,7 @@ Today I worked on the Desk Buddy project by learning and using KiCad to create a
 
 ## Entry 2
 - ID: 13017
-- Author: derinozel5
+- Author: 
 - Created At: 2026-06-10T15:07:04Z
 - 3h 50m tracked
 
@@ -79,7 +79,7 @@ Also i learned about connecting 3d printed parts while making this design
 
 ## Entry 5
 - ID: 13423
-- Author: derinozel5
+- Author: 
 - Created At: 2026-06-12T09:11:34Z
 - 3h 17m tracked
 
@@ -98,7 +98,7 @@ Spent some time working on DeskBuddy today. I soldered the rotary encoder and LC
 
 ## Entry 6
 - ID: 13424
-- Author: derinozel5
+- Author: 
 - Created At: 2026-06-12T09:16:55Z
 - 44min tracked
 
@@ -115,7 +115,7 @@ Continued working on the DeskBuddy electronics today, focusing on soldering and 
 
 ## Entry 7
 - ID: 13962
-- Author: derinozel5
+- Author: 
 - Created At: 2026-06-14T12:47:21Z
 - 1h 8m tracked
 
@@ -152,7 +152,7 @@ Today i got most of the files ready for shipping. Created the GitHub repo and fi
 
 ## Entry 9
 - ID: 14316
-- Author: derinozel5
+- Author: 
 - Created At: 2026-06-15T20:44:35Z
 - 6h 10m tracked
 
@@ -169,7 +169,7 @@ Today, I worked on my DeskBuddy project. I completed the soldering work, tested 
 
 ## Entry 10
 - ID: 14508
-- Author: derinozel5
+- Author: 
 - Created At: 2026-06-16T12:30:20Z
 - 1h tracked
 
@@ -187,7 +187,7 @@ Today, I focused on the DeskBuddy project. I finalized the Bill of Materials (BO
 
 ## Entry 11
 - ID: 14593
-- Author: derinozel5
+- Author: 
 - Created At: 2026-06-16T18:19:18Z
 - 1h tracked
 
@@ -257,7 +257,7 @@ Today i started to finalize the shipping process, made schematics on both circit
 
 ## Entry 15
 - ID: 14983
-- Author: derinozel5
+- Author: 
 - Created At: 2026-06-22 9:18pm
 - Time Tracked: 58:12
   
@@ -274,7 +274,7 @@ Today i tried to paint the project with some metalic gray colors and now i am wa
 
 ## Entry 16
 - ID: 14983
-- Author: derinozel5
+- Author: 
 - Created At: 2026-06-25 10:25am
 - Time Tracked: 1:46:05
   
@@ -292,7 +292,7 @@ Today i continued by getting the project shipping ready. Journaled for the proje
 
 ## Entry 17
 - ID: 14983
-- Author: derinozel5
+- Author: D_R1N
 - Created At: 2026-06-25 10:45am
 - Time Tracked: 37:01
   
