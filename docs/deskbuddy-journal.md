@@ -19,7 +19,7 @@ If you could count the hours filmed via lookout it would mean a lot we tried to 
 
 Today I worked on the Desk Buddy project by learning and using KiCad to create and improve the circuit design. I also designed a poster to showcase the project, focusing on explaining its purpose, functionality, and key features in a clear and visually appealing format.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NjMsInB1ciI6ImJsb2JfaWQifX0=--4be6b58358f13da6db962c10b776782acc939dd3/image.png)
+![image.png]([/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NjMsInB1ciI6ImJsb2JfaWQifX0=--4be6b58358f13da6db962c10b776782acc939dd3/image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/ibkcvs36cj89dueyh2cyh0hsugvi?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073558Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=591addd62bd7eeb573126208c1044f96ff10835a98a8512c89a787199e75ce49))
 
 
 ### Recording Links
@@ -36,8 +36,8 @@ Today I worked on the Desk Buddy project by learning and using KiCad to create a
 
 ### Content
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA2NTQsInB1ciI6ImJsb2JfaWQifX0=--a89b60a253a275d8d189faa6f7551ce5bc4ec32e/image.png)
-![WIN_20260610_18_04_20_Pro.jpg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA2NTUsInB1ciI6ImJsb2JfaWQifX0=--b4f6dce383ff1f3065dc9f5ff4103fe96955fce3/WIN_20260610_18_04_20_Pro.jpg)Today I soldered the ESP and display onto the perfboard, completed the main hardware assembly, and ran a series of tests to make sure everything was working correctly. After fixing a few small issues, the setup was running as expected and ready for the next stage of development.
+![image.png]([/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA2NTQsInB1ciI6ImJsb2JfaWQifX0=--a89b60a253a275d8d189faa6f7551ce5bc4ec32e/image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/0zb2hwpliotodukxncf3otw0ira9?response-content-disposition=inline%3B%20filename%3D%22WIN_20260610_18_04_20_Pro.jpg%22%3B%20filename%2A%3DUTF-8%27%27WIN_20260610_18_04_20_Pro.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=085e7c8ac12f34c070fc9bdcb0ef90ac5f23d892a81a5301d47be108d9c22565))
+![WIN_20260610_18_04_20_Pro.jpg]([/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA2NTUsInB1ciI6ImJsb2JfaWQifX0=--b4f6dce383ff1f3065dc9f5ff4103fe96955fce3/WIN_20260610_18_04_20_Pro.jpg](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/q86fey3rxjkvsr1a4vh3zqvp8hyo?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=5c5f5e93271ca8cc5484fbd5e2add8117fed150869f0b7c0025ed6b1e37bfbfd))Today I soldered the ESP and display onto the perfboard, completed the main hardware assembly, and ran a series of tests to make sure everything was working correctly. After fixing a few small issues, the setup was running as expected and ready for the next stage of development.
 
 
 ### Recording Links
@@ -57,7 +57,7 @@ Today I worked on the Desk Buddy project by learning and using KiCad to create a
 
 Today i worked on the knob design more than i should have and printed it but it still doesn't look very well
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA2NjAsInB1ciI6ImJsb2JfaWQifX0=--b7929cd62e01afe3c6880716c7bfe5afb15b1661/image.png)
+![image.png]([https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/ibkcvs36cj89dueyh2cyh0hsugvi?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073558Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=591addd62bd7eeb573126208c1044f96ff10835a98a8512c89a787199e75ce49](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/79uju3l5ko2suj538lzi34hja7td?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=10a2e340d570630d3a0d8db6b403f8f817a3b3601d0a1944842bc044bcf52107))
 
 
 ### Recording Links
@@ -77,7 +77,7 @@ Today i worked on the knob design more than i should have and printed it but it 
 This was the designing process of the DeskBuddy sadly i uploaded the video a few days after filming so hope you enjoy it 
 Also i learned about connecting 3d printed parts while making this design
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE0MzQsInB1ciI6ImJsb2JfaWQifX0=--f9b1fe6c279bc4321b949aefe3d32978221202c0/image.png)
+![image.png]([/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE0MzQsInB1ciI6ImJsb2JfaWQifX0=--f9b1fe6c279bc4321b949aefe3d32978221202c0/image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/uvaxqpy7ymq2ocknomr5qajr7fd5?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=7c9cfd8ea7875ada8cd12dd62cc0c0b6e2fe87500f2fb1e52ebedabd5051fd9f))
 
 
 ### Recording Links
@@ -93,7 +93,7 @@ Also i learned about connecting 3d printed parts while making this design
 ### Content
 
 Spent some time working on DeskBuddy today. I soldered the rotary encoder and LCD display onto the perfboard, then wrote and ran test code to make sure everything was working properly. The tests went well and it's exciting to see the project slowly coming together.
-![WIN_20260612_12_11_17_Pro.jpg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE4MDYsInB1ciI6ImJsb2JfaWQifX0=--618c6274ba2815db197304c704453bc29541c06f/WIN_20260612_12_11_17_Pro.jpg)
+![WIN_20260612_12_11_17_Pro.jpg]([/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE4MDYsInB1ciI6ImJsb2JfaWQifX0=--618c6274ba2815db197304c704453bc29541c06f/WIN_20260612_12_11_17_Pro.jpg](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/2wx0s8gb0brfx0t82ugmd02951kg?response-content-disposition=inline%3B%20filename%3D%22WIN_20260612_12_11_17_Pro.jpg%22%3B%20filename%2A%3DUTF-8%27%27WIN_20260612_12_11_17_Pro.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3d0dd8f1c939e6c6dfa4a906c5ed4f451edce3c171e77f700cc7633fba92bc8e))
 
 
 ### Recording Links
@@ -111,7 +111,7 @@ Spent some time working on DeskBuddy today. I soldered the rotary encoder and LC
 
 ### Content
 
-![WhatsApp Image 2026-06-12 at 12.16.06.jpeg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE4MDgsInB1ciI6ImJsb2JfaWQifX0=--fa706bd2126265cab5d12ccf0252c92384b3421c/WhatsApp Image 2026-06-12 at 12.16.06.jpeg)
+![WhatsApp Image 2026-06-12 at 12.16.06.jpeg]([/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE4MDgsInB1ciI6ImJsb2JfaWQifX0=--fa706bd2126265cab5d12ccf0252c92384b3421c/WhatsApp Image 2026-06-12 at 12.16.06.jpeg](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/kt3gpus4uhn23zwnbaw44msprak2?response-content-disposition=inline%3B%20filename%3D%22WhatsApp%20Image%202026-06-12%20at%2012.16.06.jpeg%22%3B%20filename%2A%3DUTF-8%27%27WhatsApp%2520Image%25202026-06-12%2520at%252012.16.06.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T073553Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=f9c3954b6e56dbffc69437d879add3cba26383a806d8ac7ea0465544568dd80e))
 Continued working on the DeskBuddy electronics today, focusing on soldering and assembly. While I worked on the hardware, my friend spent time refining the design and printing updated parts. Working on different areas simultaneously helped us move the project forward much faster.
 
 ### Recording Links
