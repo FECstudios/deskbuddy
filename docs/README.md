@@ -62,6 +62,19 @@ Instead of cluttering your computer screen, this device mirrors your actions ins
 | **TTP223 Touch Sensors (x2)** | Capacitive touch buttons for microphone mute and custom macro shortcuts. |
 | **3D-Printed PLA Case** | Custom designed enclosure to fit perfectly into a desktop setup. |
 
+## Bill of Materials (BoM)
+
+| Part | Qty | Approx. Cost (TL) | Purchase Link |
+|------|----:|------------------:|---------------|
+| ESP-WROOM-32D Development Board (38-pin, USB-C) | 1 | 386.40 | https://www.robo90.com/esp-wroom-32-wifi-ve-bluetooth-gelistirme-karti-38-pin-esp32 |
+| 1.8" 128×160 TFT LCD (ST7735) | 1 | 488.11 | https://www.robotistan.com/18-inc-lcd-display-module |
+| KY-040 Rotary Encoder Module | 1 | 39.91 | https://www.komponentci.net/ky-040-rotary-encoder-modulu-pmu4057 |
+| TTP223B Touch Sensor | 2 | 33.12 | https://www.robo90.com/tpp223b-dokunmatik-touch-sensor-modulu |
+| **Total Estimated Cost** | | **₺947.54** | |
+
+> Prices are approximate and may change over time.
+
+
 ## How it works
 The ESP32 connects to your PC via USB and communicates with a lightweight companion script running on your computer to stay perfectly in sync.
 
@@ -70,13 +83,13 @@ The ESP32 connects to your PC via USB and communicates with a lightweight compan
 3. **UI Rendering:** The screen acts as a dedicated hardware dashboard, drawing clean icons and progress bars based on the current state of your system audio and inputs.
 
 
-## Building
+## Steps to Reproduce
 1. **Printing**: Print the top.stl part with 0.20 layer height and add a pause on layer 14, then when the print pauses add your touch sensors with wires and pins removed and continue printing untill part is finished.
 Then you can print rest of the parts (knob and bottom) normally with layer height of your choice
 2. **Soldering**: Solder all of the components according to the schematics given above in *Gallery* and make sure to not burn the plastic while soldering the touch sensors. Solder the esp32 on the bottom of the perf board and solder the TFT screen on top of the esp32 as shown in the pictures above
 3. **Assembly**: Slide in the perf board to the bottom part make sure the esp32 and the type c port hole allign and then slide in the rotary encoder on the left side of the bottom part. After all of the components are added simply click in the top and bottom parts together.
 
-*The model was made with 0.4 tolerances in mind*
+The model was made with 0.4 tolerances in mind
 
 
 ## Setup
